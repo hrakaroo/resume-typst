@@ -121,6 +121,21 @@ employment:
         accomplishments:
           - Built an internal dashboard for monitoring system health.
           - Wrote documentation for onboarding new team members.
+  # Force a page break before the next section
+  - name: pagebreak
+  - name: CodeCraft Labs
+    url: "https://example.com/codecraft"
+    positions:
+      - title: Junior Developer (Part-time)
+        from: "2012 January"
+        to: "2012 December"
+        description: >
+          Part-time development role while completing undergraduate studies,
+          building web applications for local businesses.
+        accomplishments:
+          - Developed responsive websites for 5+ small business clients.
+          - Implemented payment processing integration using Stripe API.
+          - Collaborated with design team to improve user experience workflows.
 
 sections:
   - name: Projects
