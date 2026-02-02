@@ -3,7 +3,7 @@
 This repository contains a professional resume template in [Typst](https://typst.app/) - a modern markup-based typesetting system.
 
 This project also uses GitHub workflows to automatically build the resume.  See
-[releases](https://github.com/hrakaroo/resume-typst/releases) to see the latest version of the example resume.
+[releases](https://github.com/hrakaroo/resume-typst/releases) to view the latest version of the example resume.
 
 ## Installation (Mac)
 
